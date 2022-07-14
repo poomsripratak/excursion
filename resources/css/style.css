@@ -3,10 +3,21 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* Header */
 .header--main {
     color: white;
     font-weight: normal;
     font-size: 50px;
+}
+.header--secondary{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.header--sub-header {
+    color: gray;
+    font-size: 21px;
 }
 
 .link--cta {
